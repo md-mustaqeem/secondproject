@@ -1,0 +1,36 @@
+body{
+      background-color: rgb(140, 108, 145);
+}
+.d_container{
+
+}
+header{
+      height: 100px;
+}
+header> nav{
+      height: 70px;
+}
+header > nav> ul > li> a{
+      color: white !important;
+}
+.active{
+      background: rgb(79, 39, 143);
+}
+.mainpart{
+      height: 700px;
+      border: 1px solid red;
+}
+.mainpart > h1{
+      text-align: center;
+      padding-top: 100px;
+      color: white;
+}
+footer{
+      height: 200px;
+      border: 1px solid rgb(105, 18, 177);
+}
+footer > h1{
+      text-align: center;
+      padding-top: 100px;
+      color: white;
+}
